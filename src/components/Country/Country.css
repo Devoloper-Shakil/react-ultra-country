@@ -1,0 +1,26 @@
+.country-flag img{
+    width:300px;
+}
+.country-contryner{
+    display:flex;
+    background:gray;
+    margin: 30px;
+    box-shadow: 6px 8px 10px;
+    border-radius: 5px;
+   
+
+}
+.country-info{
+    margin-left: 20px;
+   
+    
+}
+.sub-info{
+    display: flex;
+    
+}
+.sim-info{
+    margin-top: 65px;
+    margin-left: 10px;
+  
+}
